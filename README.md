@@ -1,6 +1,6 @@
 # GalaxyShooter
 
-##Projeto de um jogo shooter 2D, feito para aprendizado sobre interface com o usuário, utilização do sistema de sons, aplicação de animações em 2D, aplicação de post-processing e criação de um sistema de spawn.
+## Projeto de um jogo shooter 2D, feito para aprendizado sobre interface com o usuário, utilização do sistema de sons, aplicação de animações em 2D, aplicação de post-processing e criação de um sistema de spawn.
 
 -Sobre:
 ============================
